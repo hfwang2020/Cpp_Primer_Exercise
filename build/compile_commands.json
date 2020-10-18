@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/hfwang/CLionProjects/C++_Primer/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/C___Primer.dir/main.cpp.o -c /Users/hfwang/CLionProjects/C++_Primer/main.cpp",
+  "file": "/Users/hfwang/CLionProjects/C++_Primer/main.cpp"
+}
+]
