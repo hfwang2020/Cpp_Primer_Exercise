@@ -4,7 +4,7 @@
 #include <vector>
 #include <cstring>
 #include <stdexcept>
-
+#include <initializer_list>
 
 using std::vector;
 using std::string;
@@ -14,18 +14,14 @@ using std::endl;
 using std::getline;
 using std::pair;
 using std::runtime_error;
-
-
-// mark @ exercise 6.8
-
+using Iter = vector<int>::const_iterator;
 
 int main() {
+    cout << "----------start----------" << endl;
 
-//    q5_24();
-    q5_25();
+
+
+    cout << endl;
     cout << "----------finish----------" << endl;
     return 0;
-
 }
-
-
