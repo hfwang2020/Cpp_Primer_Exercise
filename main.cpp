@@ -20,7 +20,7 @@ using Iter = vector<int>::const_iterator;
 
 struct Sales_date {
     string isbn() const { return bookNo; }
-    Sales_date& combine(const Sales_date&)
+    Sales_date& combine(const Sales_date&);
 
 
     string bookNo;
